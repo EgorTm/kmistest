@@ -25,7 +25,7 @@ SECRET_KEY = 'sr36mch_nc3gd^o-3u6t$1lz4zo%bgf1_lpv7hecn*-g01!3kf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'tirplex.pythonanywhere.com']
 
 
 # Application definition
